@@ -8,19 +8,6 @@ The Pizza Ordering application is a tablet-based canvas app where a user can Ord
 + [https://learn.microsoft.com/en-us/training/paths/power-apps-online-workshop](https://learn.microsoft.com/en-us/training/paths/power-apps-online-workshop/?azure-portal=true)
 - [https://www.youtube.com/watch?v=Ztn39KuOW0g](https://www.youtube.com/watch?v=Ztn39KuOW0g)
 
-## Pizza Ordering Screens
-![Screenshot of the Main Screen](https://drive.google.com/file/d/12yLa69OyQmGa_OKTtn23DJpFs3O5C_Nl/view?usp=drive_link)
-![Screenshot of the Compare Screen](Pizza Ordering App/Compare Screen.png)
-![Screenshot of the Order Screen](https://drive.google.com/file/d/1PJNBFxypxPR2i0cBYJ8_bVTo1Wnov9CL/view?usp=drive_link)
-![Screenshot of the Order Preview Screen](https://drive.google.com/file/d/1dYLC2sMQXOr6yAmAUrotyysSGchJchey/view?usp=drive_link)
-
-## Data Sources
-This app uses SharePoint as a data source and requires four SharePoint Lists with the following fields:
-
-### Pizza Data
-This list contains the list of Pizza Items. Upload the excel file 
-
-
 ## How to Import the File
 
 - Download the .msapp from the solution folder
