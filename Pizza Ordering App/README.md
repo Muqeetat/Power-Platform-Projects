@@ -3,7 +3,6 @@
 The Pizza Ordering application is a tablet-based canvas app where a user can Order Pizza, Compare Pizzas and Preview their order after placing their Orders.
 
 ## Learning Resources
-- [https://www.youtube.com/watch?v=Ztn39KuOW0g](https://www.youtube.com/watch?v=Ztn39KuOW0g)
 * [https://www.matthewdevaney.com/build-a-shopping-cart-in-power-apps/](https://www.matthewdevaney.com/build-a-shopping-cart-in-power-apps/)
 + [https://learn.microsoft.com/en-us/training/paths/power-apps-online-workshop](https://learn.microsoft.com/en-us/training/paths/power-apps-online-workshop/?azure-portal=true)
 - [https://www.youtube.com/watch?v=Ztn39KuOW0g](https://www.youtube.com/watch?v=Ztn39KuOW0g)
