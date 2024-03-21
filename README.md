@@ -19,4 +19,4 @@ Repository branches dedicated to showcasing completed Power Platform projects.
 
 
 
-# Let's explore, learn, and build dope-ass applications together!
+### Let's explore, learn, and build dope-ass applications together!
