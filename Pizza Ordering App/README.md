@@ -10,7 +10,9 @@ The Pizza Ordering application is a tablet-based canvas app where a user can Ord
 ## Pizza Ordering Screens
 ![Screenshot of the Main Screen](https://drive.google.com/file/d/12yLa69OyQmGa_OKTtn23DJpFs3O5C_Nl/view?usp=drive_link)
 ![Screenshot of the Compare Screen](https://drive.google.com/file/d/16D8GUIn5wWsgkk1_-xnTfz-R8wGnzM3c/view?usp=drive_link)
-![Screenshot of the Order Screen](https://drive.google.com/file/d/1PJNBFxypxPR2i0cBYJ8_bVTo1Wnov9CL/view?usp=drive_link)
+
+![Screenshot of the Order Screen](https://github.com/Muqeetat/Power-Platform-Projects/blob/main/Pizza%20Ordering%20App/Order%20Screen.png)
+
 ![Screenshot of the Order Preview Screen](https://github.com/Muqeetat/Power-Platform-Projects/blob/main/Pizza%20Ordering%20App/View%20Screen.png)
 
 ## How to Import the File
