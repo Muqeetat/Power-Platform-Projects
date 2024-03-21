@@ -14,7 +14,7 @@ The Pizza Ordering application is a tablet-based canvas app where a user can Ord
 - Select the Data tab
 - Remove the 'Pizza Data', 'Pizza Company Type','Pizza Order' and 'Pizza Order Summary' data sources from the app
 + Add new data sources for the 'Pizza Data', 'Pizza Company Type','Pizza Order' and 'Pizza Order Summary' SharePoint Lists you created in your environment
-Save and Publish.
+* Save and Publish.
 
 
 ## License
