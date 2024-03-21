@@ -1,3 +1,6 @@
+  > [!NOTE]
+> This is my first App. And I'm so excited to showcase it!
+
 # Pizza Ordering App
 
 The Pizza Ordering application is a tablet-based canvas app where a user can Order Pizza, Compare Pizzas and Preview their order after placing their Orders.
@@ -28,9 +31,6 @@ The Pizza Ordering application is a tablet-based canvas app where a user can Ord
 - Remove the 'Pizza Data', 'Pizza Company Type','Pizza Order' and 'Pizza Order Summary' data sources from the app
 + Add new data sources for the 'Pizza Data', 'Pizza Company Type','Pizza Order' and 'Pizza Order Summary' SharePoint Lists you created in your environment
 * Save and Publish.
-
-  > [!NOTE]
-> This is my first App. And I'm so excited to showcase it!
 
 ## License
 [Power Apps](https://make.powerapps.com/)
