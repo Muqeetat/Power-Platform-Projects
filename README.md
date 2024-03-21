@@ -15,11 +15,8 @@ A curated list of tutorials, documentation, and online courses that form the fou
 2. Code Snippets:
 A collection of reusable code snippets, functions, and expressions for Power Apps and Power Automate to expedite development.
 3. Project Showcase:
-Repository branches dedicated to showcasing completed Power Platform projects, demonstrating their functionality and versatility.
-4. Blog & Reflections:
-Periodic blog posts documenting my learning experiences, insights gained, and challenges overcome during this Power Platform odyssey.
+Repository branches dedicated to showcasing completed Power Platform projects.
 
 
 
-# Join the Odyssey:
-Whether you're a seasoned developer or just starting, join me on this exhilarating Power Platform Odyssey. Let's explore, learn, and build dope-ass applications together!
+# Let's explore, learn, and build dope-ass applications together!
